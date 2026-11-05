@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shared-catalogs-nuxt",
+  "capabilityKey": "planned:ecommerce:shared-catalogs",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-shared-catalogs-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/shared-catalogs.md",
+  "presentationPlan": "projects/ecommerce/nuxt/shared-catalogs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
